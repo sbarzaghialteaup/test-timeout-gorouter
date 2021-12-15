@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "source": "^/aspetta", 
+        "destination": "srv_api",
+        "authenticationType": "none"
+      }
+    ]
+  }

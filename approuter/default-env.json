@@ -1,0 +1,9 @@
+{
+  "destinations": [
+    {
+      "name": "srv_api",
+      "url": "http://localhost:8089",
+      "timeout": 3000000
+    }
+  ]
+}
